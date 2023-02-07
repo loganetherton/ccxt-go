@@ -5,7 +5,7 @@ package ccxt
 //
 
 import (
-	"github.com/prompt-cash/ccxt-go/utils"
+	"github.com/loganetheton/ccxt-go/utils"
 	"regexp"
 	"sort"
 	"strings"

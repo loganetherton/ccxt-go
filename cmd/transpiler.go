@@ -2,9 +2,9 @@ package cmd
 
 import (
 	"context"
+	"github.com/loganetheton/ccxt-go/app"
+	"github.com/loganetheton/ccxt-go/pkg/transpiler"
 	"github.com/pkg/errors"
-	"github.com/prompt-cash/ccxt-go/app"
-	"github.com/prompt-cash/ccxt-go/pkg/transpiler"
 	"github.com/spf13/cobra"
 )
 

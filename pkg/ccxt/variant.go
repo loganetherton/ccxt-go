@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"errors"
 	"fmt"
-	"github.com/prompt-cash/ccxt-go/pkg/turing_parser"
+	"github.com/loganetheton/ccxt-go/pkg/turing_parser"
 	"sort"
 	"strconv"
 	"strings"

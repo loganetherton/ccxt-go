@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/prompt-cash/ccxt-go/cmd"
+	"github.com/loganetheton/ccxt-go/cmd"
 	"runtime"
 )
 

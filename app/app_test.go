@@ -2,7 +2,7 @@ package app
 
 import (
 	"context"
-	"github.com/prompt-cash/ccxt-go/log"
+	"github.com/loganetheton/ccxt-go/log"
 	"github.com/spf13/viper"
 	"testing"
 )

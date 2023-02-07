@@ -2,9 +2,9 @@ package app
 
 import (
 	"context"
-	"github.com/prompt-cash/ccxt-go/log"
-	"github.com/prompt-cash/ccxt-go/pkg/transpiler"
-	"github.com/prompt-cash/ccxt-go/utils/randstr"
+	"github.com/loganetheton/ccxt-go/log"
+	"github.com/loganetheton/ccxt-go/pkg/transpiler"
+	"github.com/loganetheton/ccxt-go/utils/randstr"
 )
 
 type App struct {

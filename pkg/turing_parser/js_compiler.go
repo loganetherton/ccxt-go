@@ -3,7 +3,7 @@ package turing_parser
 import (
 	"fmt"
 	"github.com/emirpasic/gods/lists/arraylist"
-	"github.com/prompt-cash/ccxt-go/log"
+	"github.com/loganetheton/ccxt-go/log"
 )
 
 type JSCompiler struct {

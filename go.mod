@@ -1,4 +1,4 @@
-module github.com/prompt-cash/ccxt-go
+module github.com/loganetheton/ccxt-go
 
 go 1.16
 
