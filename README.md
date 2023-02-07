@@ -13,7 +13,7 @@ Go >= 1.13
 
 ### Installation
 ```
-go get https://github.com/prompt-cash/ccxt-go
+go get github.com/loganetherton/ccxt-go
 ```
 Take a look into [ccxt_test.go](pkg/ccxt/ccxt_test.go) for an example how to get started.
 
