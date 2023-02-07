@@ -2,8 +2,8 @@ package app
 
 import (
 	"context"
-	"github.com/loganetheton/ccxt-go/log"
-	"github.com/loganetheton/ccxt-go/utils/randstr"
+	"github.com/loganetherton/ccxt-go/log"
+	"github.com/loganetherton/ccxt-go/utils/randstr"
 )
 
 type Context struct {

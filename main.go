@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/loganetheton/ccxt-go/cmd"
+	"github.com/loganetherton/ccxt-go/cmd"
 	"runtime"
 )
 

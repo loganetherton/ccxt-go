@@ -1,4 +1,4 @@
-module github.com/loganetheton/ccxt-go
+module github.com/loganetherton/ccxt-go
 
 go 1.16
 

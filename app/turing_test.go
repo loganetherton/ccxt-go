@@ -2,7 +2,7 @@ package app
 
 import (
 	"fmt"
-	"github.com/loganetheton/ccxt-go/pkg/turing_parser"
+	"github.com/loganetherton/ccxt-go/pkg/turing_parser"
 	"io/ioutil"
 	"testing"
 )

@@ -2,9 +2,9 @@ package transpiler
 
 import (
 	"fmt"
-	"github.com/loganetheton/ccxt-go/log"
-	"github.com/loganetheton/ccxt-go/pkg/turing_parser"
-	"github.com/loganetheton/ccxt-go/utils"
+	"github.com/loganetherton/ccxt-go/log"
+	"github.com/loganetherton/ccxt-go/pkg/turing_parser"
+	"github.com/loganetherton/ccxt-go/utils"
 	"io/ioutil"
 	"path"
 	"path/filepath"

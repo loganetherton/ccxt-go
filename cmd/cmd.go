@@ -3,7 +3,7 @@ package cmd
 import (
 	"context"
 	"fmt"
-	"github.com/loganetheton/ccxt-go/log"
+	"github.com/loganetherton/ccxt-go/log"
 	"github.com/spf13/cobra"
 	"github.com/spf13/viper"
 	"os"

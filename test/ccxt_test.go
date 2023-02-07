@@ -2,7 +2,7 @@ package test
 
 import (
 	"fmt"
-	"github.com/loganetheton/ccxt-go/pkg/ccxt"
+	"github.com/loganetherton/ccxt-go/pkg/ccxt"
 	"testing"
 )
 

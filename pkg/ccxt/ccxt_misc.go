@@ -5,7 +5,7 @@ package ccxt
 //
 
 import (
-	"github.com/loganetheton/ccxt-go/utils"
+	"github.com/loganetherton/ccxt-go/utils"
 	"regexp"
 	"sort"
 	"strings"

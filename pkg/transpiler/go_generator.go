@@ -3,8 +3,8 @@ package transpiler
 import (
 	"fmt"
 	"github.com/emirpasic/gods/lists/arraylist"
-	"github.com/loganetheton/ccxt-go/log"
-	"github.com/loganetheton/ccxt-go/pkg/turing_parser"
+	"github.com/loganetherton/ccxt-go/log"
+	"github.com/loganetherton/ccxt-go/pkg/turing_parser"
 	"strings"
 )
 
